@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://www.shutterstock.com/image-vector/audit-business-analysis-financial-management-600w-1970790359.jpg')",
         },
       },
     },
